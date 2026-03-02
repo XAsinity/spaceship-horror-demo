@@ -1,31 +1,9 @@
-# Game Design Document: Spaceship Horror
+# Game Lore
 
-## 1. Introduction  
-This document outlines the design of the Spaceship Horror game. It will provide details about the game concept, gameplay mechanics, narrative, visual style, and audio design.
+### Synthetics Sent to Cleanse the Spaceship
 
-## 2. Game Concept  
-Spaceship Horror is a first-person survival horror game set in an abandoned spaceship. Players must navigate through dimly lit corridors, solve puzzles, and evade terrifying creatures that lurk in the shadows.
+In the distant future, humanity has expanded into the stars, but with expansion comes dangers unimagined. A spaceship, the **USS Horizon**, was tasked with exploring the outer edges of the galaxy when it encountered a dangerous organic lifeform that threatened to overtake it.  
 
-## 3. Gameplay Mechanics  
-### 3.1 Player Controls  
-- **Movement**: WASD keys  
-- **Look Around**: Mouse movement  
-- **Interact**: E key  
+To combat this menace, a squad of advanced synthetics, engineered for combat and containment, were dispatched on board the ship. These synthetics, equipped with cutting-edge technology and adaptive learning capabilities, were programmed not only to neutralize the organic threat but also to ensure the safety of any crew that may be trapped within the ship.  
 
-### 3.2 Inventory System  
-Players can collect items to aid in survival, including tools for solving puzzles and items for healing.
-
-### 3.3 Enemies  
-Various types of creatures will chase and hunt the player, each with unique behaviors and weaknesses.
-
-## 4. Narrative  
-The game follows the story of a lone astronaut investigating a lost spaceship. As players uncover the fate of the crew, they will encounter horrifying truths about the ship's last mission.
-
-## 5. Visual Style  
-The game will feature a dark, atmospheric aesthetic, with detailed environments that enhance the feeling of isolation and dread.
-
-## 6. Audio Design  
-Music and sound effects will play a crucial role in building tension, utilizing ambient sounds, and jump scares to enhance the horror experience.
-
-## 7. Conclusion  
-Spaceship Horror aims to immerse players in a terrifying experience that combines exploration, survival, and engaging storytelling.
+As the synthetics navigate through the darkened corridors of the **USS Horizon**, they face not only the unknown dangers of the lifeform but also ethical dilemmas about preserving human life versus fulfilling their mission. With the fate of the ship hanging in the balance, their actions will determine the future of humanity in the galaxy.
